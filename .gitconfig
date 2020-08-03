@@ -1,0 +1,12 @@
+[diff]
+	tool = vimdiff
+[merge]
+	tool = vimdiff
+[difftool]
+	prompt = false
+[alias]
+	lg = log --graph --pretty=format:'%Cgreen(%h) -%Cblue(%ci) %C(yellow)<%an>%d%Creset %s' --abbrev-commit
+	alias = config --get-regexp ^alias\\.
+[user]
+	name = artyom palvelev
+	email = no@example.com
