@@ -1,0 +1,42 @@
+"*":
+  "autocomplete-plus":
+    consumeSuffix: false
+    enableAutoActivation: false
+    minimumWordLength: 2
+    strictMatching: true
+    useAlternateScoring: false
+    useLocalityBonus: false
+  autosave:
+    enabled: true
+  "bracket-matcher":
+    autocompleteBrackets: false
+  core:
+    audioBeep: false
+    telemetryConsent: "no"
+    themes: [
+      "atom-dark-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 12
+    preferredLineLength: 110
+    scrollPastEnd: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "63d1870d-fce9-4de8-8903-1dd2cee4eafc"
+  "linter-mypy":
+    disallowAnyExpr: false
+    executablePath: "/home/cppg/miniconda3/bin/python"
+    mypyNotifyInternalError: false
+    warnIncompleteStub: false
+    warnMissingImports: false
+  "linter-ui-default": {}
+  "spell-check":
+    useLocales: false
+    useSystem: false
+  tabs:
+    displayMruTabList: false
+    enableMruTabSwitching: false
+  welcome:
+    showOnStartup: false

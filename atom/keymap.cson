@@ -1,0 +1,12 @@
+
+'body':
+  'ctrl-n': 'unset!'
+  'ctrl-s': 'unset!'
+  'f2': 'core:save'
+  'ctrl-w': 'unset!'
+
+'atom-text-editor':
+  'f2': 'unset!'
+  'ctrl-n': 'autocomplete-plus:activate'
+  'ctrl-up': 'unset!'
+  'ctrl-down': 'unset!'
