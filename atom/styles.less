@@ -3,3 +3,21 @@
 .gutter .line-number .icon-right {
   display: none;
 }
+
+// fix scrollbars
+.scrollbars-visible-always {
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    &-track {
+        border: 0px;
+        border-radius: 0px;
+        // background-color: #444 !important;
+    }
+    &-thumb {
+        // background-color: rgba(255,200,200,0.35) !important;
+        border: 0px;
+        border-radius: 9px;
+    }
+  }
+}

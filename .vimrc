@@ -9,8 +9,8 @@ set expandtab
 
 nmap <F2> :w<CR>
 imap <F2> <ESC>:w<CR>
-nmap <F3> 0i# <ESC>j
-nmap <F4> ^xxj
+nmap <F3> I# <ESC>j
+nmap <F4> ^2xj
 nmap <F10> :qa<CR>
 nmap <CR> :noh<CR>
 nmap <C-Up> [c

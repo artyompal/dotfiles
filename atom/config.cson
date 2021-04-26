@@ -12,26 +12,28 @@
     autocompleteBrackets: false
   core:
     audioBeep: false
-    telemetryConsent: "no"
-    themes: [
-      "atom-dark-ui"
-      "one-dark-syntax"
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "spell-check"
     ]
+    projectHome: "/home/cppg/dev"
+    telemetryConsent: "no"
   editor:
-    fontSize: 12
+    fontSize: 13
     preferredLineLength: 110
     scrollPastEnd: true
     tabLength: 4
-    tabType: "soft"
+    zoomFontWhenCtrlScrolling: false
   "exception-reporting":
-    userId: "63d1870d-fce9-4de8-8903-1dd2cee4eafc"
+    userId: "26332d13-cdc8-4664-b756-84487b2066ff"
   "linter-mypy":
     disallowAnyExpr: false
     executablePath: "/home/cppg/miniconda3/bin/python"
     mypyNotifyInternalError: false
     warnIncompleteStub: false
     warnMissingImports: false
-  "linter-ui-default": {}
+  "linter-ui-default":
+    panelHeight: 210
   "spell-check":
     useLocales: false
     useSystem: false
