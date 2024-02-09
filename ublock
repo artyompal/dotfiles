@@ -1,0 +1,20 @@
+youtube.com##.ytp-gradient-bottom
+youtube.com##ytd-watch-next-secondary-results-renderer
+
+lichess.org##.mchat
+lichess.org##.round__underchat
+lichess.org##.chat__members
+
+! 2023-08-26 https://askubuntu.com
+askubuntu.com##.js-top-bar.l0.t0.ps-fixed.s-topbar
+
+! 2023-10-29 https://listudy.org
+listudy.org##.success > .infoBox
+
+! 2023-11-05 https://developers.google.com
+developers.google.com##devsite-header
+
+! 2023-11-05 https://developer.android.com
+developer.android.com##devsite-header
+
+
